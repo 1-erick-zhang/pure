@@ -85,3 +85,6 @@ _pure_set_default pure_enable_single_line_prompt false
 
 # Detect when running in container (e.g. docker, podman, LXC/LXD)
 _pure_set_default pure_enable_container_detection true
+
+# SSH
+_pure_set_default pure_color_ssh pure_color_mute
